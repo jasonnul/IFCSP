@@ -8,7 +8,7 @@ I have realised that going back into an educational environment 🏫 after 30 ye
 \
 This week I have been introduced to the ***Intensive Foundations of Computer Science and Programming*** and although I learnt the basics of BASIC and Pascal in my early years it is apparent just how much I have forgotten, although the fundamentals of programme structure are starting to become familiar again.\
 \
-This is my first time using Markdown in ![Github logo]<img width="75" height="39" alt="image" src="https://github.com/user-attachments/assets/9a8965ee-93d1-4113-b1ae-d2b2879015e3" /> so hopefully I don't make too many coding ~~mitsakes~~ mistakes 😆
+This is my first time using Markdown in <img width="75" height="39" alt="image" src="https://github.com/user-attachments/assets/9a8965ee-93d1-4113-b1ae-d2b2879015e3" /> so hopefully I don't make too many coding ~~mitsakes~~ mistakes 😆
 
 ### Hobbies and interests
 I love spending time with my family 👨‍👧‍👦 and socialising with my friends 🥃\
@@ -32,4 +32,4 @@ can
 \
 I will stop now and commit this, as the last page I created got lost when I accidentally navigated away without committing!
 
-![Image of Homer Simpson saying DOH!]<img width="207" height="317" alt="image" src="https://github.com/user-attachments/assets/b06e554e-77f0-44cd-bfd8-154d5bb41e2b" />
+![Image of Homer Simpson saying DOH!](https://github.com/user-attachments/assets/b06e554e-77f0-44cd-bfd8-154d5bb41e2b)
