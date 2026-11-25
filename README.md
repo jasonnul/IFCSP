@@ -13,11 +13,9 @@ This is my first time using Markdown in <img width="75" height="39" alt="image" 
 ### Hobbies and interests
 I love spending time with my family 👨‍👧‍👦 and socialising with my friends 🥃\
 We have a few pets in the house including fish 🐟 a kitten 🐈 and two snakes 🐍🐍\
-I like cars...except for when they go *wrong* <ins>(Just like the gif below which doesn't appear to be moving?)</ins>
+I like cars...except for when they go *wrong* <ins>(Such as below when the first gif I uploaded refused to be animated!)</ins>
 
 ![](images/Subaru.gif)
-
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/140669db-42bb-4d65-b54b-18d2fc875ccb" />
 
 **I am also looking forwards to _completing_ this course!** I am sure that there will be <sup>HIGHS</sup> and <sub>LOWS</sub> throughout!\
 \
