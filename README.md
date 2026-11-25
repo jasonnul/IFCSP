@@ -30,6 +30,6 @@ can
       blocks if required
 ```
 \
-\ I will stop now and commit this, as the last page I created got lost when I accidentally navigated away without committing!
+I will stop now and commit this, as the last page I created got lost when I accidentally navigated away without committing!
 
 <img width="207" height="317" alt="image" src="https://github.com/user-attachments/assets/b06e554e-77f0-44cd-bfd8-154d5bb41e2b" />
